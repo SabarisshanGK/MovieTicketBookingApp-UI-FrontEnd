@@ -1,3 +1,3 @@
 # MovieTicketBookingApp-UI-FrontEnd
 
-##REACT NATIVE:
+REACT NATIVE:
