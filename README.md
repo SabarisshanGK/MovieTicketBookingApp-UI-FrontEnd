@@ -8,20 +8,21 @@ I have collected reference image from dribble website.
 ## DEMO VIDEO OF MY APP
 Based , on UI design I had developed my version of movie ticket booking app.
 (https://drive.google.com/file/d/1l5af_1H0czvAsKy_hhEgGPF5V3qgYCLe/view?usp=share_link)
-├── src
-│   ├── controller
-│   │   ├── **/*.css
-│   ├── views
-│   ├── model
-│   ├── index.js
-├── public
-│   ├── css
-│   │   ├── **/*.css
-│   ├── images
-│   ├── js
-│   ├── index.html
-├── dist (or build
-├── node_modules
-├── package.json
-├── package-lock.json 
-└── .gitignore
+
+ ├── src
+ │   ├── controller
+ │   │   ├── **/*.css
+ │   ├── views
+ │   ├── model
+ │   ├── index.js
+ ├── public
+ │   ├── css
+ │   │   ├── **/*.css
+ │   ├── images
+ │   ├── js
+ │   ├── index.html
+ ├── dist (or build
+ ├── node_modules
+ ├── package.json
+ ├── package-lock.json 
+ └── .gitignore
