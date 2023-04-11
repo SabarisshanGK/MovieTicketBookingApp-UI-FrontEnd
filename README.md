@@ -10,8 +10,8 @@ Based , on UI design I had developed my version of movie ticket booking app.
 (https://drive.google.com/file/d/1l5af_1H0czvAsKy_hhEgGPF5V3qgYCLe/view?usp=share_link)
 
  .
-+-- _config.yml
-+-- _drafts
++-- _ config.yml
++-- _ drafts
 |   +-- begin-with-the-crazy-ideas.textile
 |   +-- on-simplicity-in-technology.markdown
 +-- _includes
