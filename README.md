@@ -9,4 +9,23 @@ I have collected reference image from dribble website.
 Based , on UI design I had developed my version of movie ticket booking app.
 (https://drive.google.com/file/d/1l5af_1H0czvAsKy_hhEgGPF5V3qgYCLe/view?usp=share_link)
 
-
+app
+├── config
+│   └── routes.js
+├── screens
+│   └── App
+│       ├── screens
+│       │   ├── Admin
+│       │   │   ├── screens
+│       │   │   │   ├── Reports
+│       │   │   │   │   └── index.js
+│       │   │   │   └── Users
+│       │   │   │       └── index.js
+│       │   │   └── index.js
+│       │   └── Course
+│       │       ├── screens
+│       │       │   └── Assignments
+│       │       │       └── index.js
+│       │       └── index.js
+│       └── index.js
+└── index.js
